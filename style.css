@@ -1,0 +1,650 @@
+
+body {
+    font-family:Inter,-apple-system,BlinkMacSystemFont,Avenir Next,Avenir,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif
+}
+
+hr {
+    color: #929292;
+}
+
+
+
+/* Barra Navegação */
+
+#barraNavHeader {
+    padding-bottom: 0px;
+}
+
+#barraNav {
+    border-bottom: 2px solid #f5f6f7;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+}
+
+#margin {
+    margin-left: -9px;
+}
+
+#botaoMenu {
+    border: 0px;
+}
+
+#icone02 {
+    padding-right: 6px;
+}
+
+#tamanhoFonteMenu {
+    font-size: 85%;
+}
+
+#tamanhoFonteMenu2 {
+    font-size: 73%;
+}
+
+#margemMenu {
+    margin-right: 34px;
+}
+
+#globo {
+    width: 135px;
+    height: 28px;
+}
+
+#margemMenu {
+    margin-right: 34px;
+}
+
+#icone01 {
+    margin-right: -10px;
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+#icone04 {
+    width: 34px;
+    height: 32px;
+    margin-top: 9px;
+    margin-right: -10px;
+}
+
+#iconeLateral {
+    width: 32px;
+    height: 32px;
+}
+
+#iconezinhoGlobo {
+    width: 20px;
+    height: 20px;
+}
+
+#corzinhaGlobo {
+    color: #9da3ae;
+    font-size: 75%;
+}
+
+#ajuste {
+    margin-top: -9px;
+    margin-bottom: -9px;
+}
+
+#g1 {
+    color: #c4170c;
+}
+
+#g2 {
+    color: #1e4c9a;
+}
+
+#g3 {
+    color: #006767;
+}
+
+#g4 {
+    color: #06aa48;
+}
+
+#g5 {
+    color: #ff7400;
+}
+
+#g6 {
+    color: #fb0234;
+}
+
+#g7 {
+    color: #ff6700;
+}
+
+#g8 {
+    color: #c4170c;
+}
+
+#g9 {
+    color: #333;
+}
+
+#g10 {
+    color: #a5147d;
+}
+
+#margemAutoBaixo {
+    margin-bottom: 10%;
+}
+
+/* Primeiras Noticias*/
+
+#titulo {
+    color: #c4170c;
+    font-size: 165%;    
+    letter-spacing: -2px;
+}
+
+#topo {
+    padding-top: 28px;
+}
+
+#colunaEsquerda {
+    padding-right: 19px;
+    padding-left: 8px;
+}
+
+#textinho {
+    font-size: 108%;
+}
+
+#imagem2 {
+    margin: auto;
+    display: block;
+    height: 110px;
+    width: 192px;
+    border-radius: 14px;
+}
+
+#esporteTitulo {
+    color: #06aa48;
+    font-size: 120%;
+}
+
+#tamanhoFonte95 {
+    font-size: 95%;
+}
+
+#jornalismoTitulo {
+    color: #c4170c;
+    font-size: 110%;
+}
+
+#colunaMeio {
+    border-left: 1px solid #ebedef;
+    border-right: 1px solid #ebedef;
+    margin-left: 15px;
+    border-left-width: 1px;
+    padding-left: 34px;
+    padding-right: 23px;
+}
+
+#imagem {
+    margin: auto;
+    display: block;
+    height: 128px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+#margemAuto {
+    margin-bottom: 17%;
+}
+
+#colunaDireita {
+    margin-left: -15px;
+    padding-left: 41px;
+    padding-right: 9px;
+    margin-right: 0px;
+}
+
+#enterterimentoTitulo {
+    color: #ff6700;
+    font-size: 110%;
+}
+
+/* Histórias Impressionantes */
+
+#tituloHistorias {
+    color: #9133bb;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#botao {
+    display: flex;
+    justify-content: right;
+    background-color: #9133bb;
+    font-size: 90%;
+    margin-top: 12px;
+}
+
+#relatosBorda {
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#imagemRelatos {
+    width: 100%;
+    height: 162px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#textoRoxo {
+    color: #9133bb;
+}
+
+/* Jornalismo - Esporte - Enterterimento*/
+
+#colunaJornalismo {
+    padding-right: 19px;
+}
+
+#jornalismoTitulo2 {
+    color: #c4170c;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#tamanhoNoticia {
+    height: 348px;
+}
+
+#backgrowndPolitica {
+    background-color: #c4170c;
+    border-radius: 20px;
+    font-size: 110%;
+    height: 348px;
+}
+
+#imagem3 {
+    width: 100%;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#textinhoColuna {
+    font-size: 70%;
+    color: white;
+}
+
+#altura {
+    height: 110px;
+}
+
+#imagemJornalismoPequeno {
+    height: 110px;
+    width: 156px;
+    border-radius: 10px;
+}
+
+#textoNoticia {
+    margin-left: -10px;
+}
+
+#jornalismoTitulo3 {
+    color: #c4170c;
+    font-size: 94%;
+}
+
+#textinhoColuna2 {
+    font-size: 75%;
+    color: #929292;
+}
+
+#imagem4 {
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}
+
+#colunaEsporte {
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+#esporteTitulo2 {
+    color: #06aa48;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#backgroundEsporte {
+    background-color: #06aa48;
+    border-radius: 20px;
+    font-size: 110%;
+    height: 348px;
+}
+#esporteTitulo3 {
+    color: #06aa48;
+    font-size: 94%;
+}
+
+#colunaEnterterimento {
+    padding-left: 19px;
+}
+
+#enterterimentoTitulo2 {
+    color: #ff6700;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#backgroundEnterterimento {
+    background-color: #ff6700;
+    border-radius: 20px;
+    font-size: 110%;
+    height: 348px;
+}
+
+#enterterimentoTitulo3 {
+    color: #ff6700;
+    font-size: 94%;
+}
+
+/*Economia - Agenda - Horoscopo*/
+
+#jornalismoTitulo4 {
+    color: #c4170c;
+    font-size: 150%;
+    border-bottom: 2px solid;
+    padding-bottom:20px;
+}
+
+#cardi {
+    border-radius: 17px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 0px;
+    width: 100%;
+    height: 75%;
+}
+
+#textinhoEconomia {
+    font-size: 80%;
+}
+
+#porcentagemVerde {
+    color: #6ebf17;
+    font-size: 250%;
+}
+
+#fonteJogo {
+    font-size: 76%;
+    color: #84888f;
+    position: left;
+}
+
+#fundoMoeda {
+    background-color: #f5f6f7;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 90%;
+}
+
+#botaoVermelho {
+    width: 100%;
+    background-color: #c4170c;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+}
+
+#esporteTitulo4 {
+    color: #06aa48;
+    font-size: 150%;
+    border-bottom: 2px solid;
+    padding-bottom: 20px;
+}
+
+#verde {
+    color: #06aa48;
+}
+
+#iconeJogo {
+    width: 32px;
+    height: 32px;
+}
+
+#horario {
+    font-size: 80%;
+}
+
+#botaoVerde {
+    width: 100%;
+    background-color: #06aa48;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+}
+
+#enterterimentoTitulo4 {
+    color: #ff6700;
+    font-size: 150%;
+    border-bottom: 2px solid;
+    padding-bottom: 20px;
+}
+
+#horoscopoImagem {
+    filter: invert(54%) sepia(70%) saturate(4710%) hue-rotate(0deg) brightness(102%) contrast(105%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 88px;
+    height: 88px;
+    background: linear-gradient(140.1deg, rgba(236, 125, 0, 0.1) 15.52%, rgba(224, 36, 160, 0.1) 82.61%);
+    border-radius: 100px;
+}
+
+#horoscopoIcone {
+    border-color: rgb(255, 255, 255);
+    border-radius: 50px;
+}
+
+.btn-outline-secondary {
+    --bs-btn-hover-bg: #ff934b;
+}
+
+#horoscopoIcon2 {
+    width: 20px;
+    height: 19px;
+}
+
+#laranja {
+    color: #ff7400;
+}
+
+#botaoLaranja {
+    width: 100%;
+    background-color: #ff6700;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+}
+
+/*De Olho no G1*/
+
+#jornalismoTitulo5 {
+    color: #000000;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#backgrowndPreto{
+    background-color: rgb(16, 16, 17);
+    padding-top: 18px;
+    padding-left: 23px;
+}
+
+#fonteVideo{
+    font-size: 110%;
+}
+
+#video{
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+/* Globoplay */
+
+#imagemGloboplay {
+    width: 100%;
+    height: 40px;
+}
+
+#botaoGloboplay {
+    display: flex;
+    background-color: #fb0234;
+    width: 190px;
+    height: 48px;
+    text-align: center;
+}
+
+#fonte {
+    font-size: 100%;
+}
+
+#imagemCarusel {
+    border-radius: 20px;
+    height: 290px;
+}
+
+#globoplayImagens {
+    padding-left: 33px;
+}
+
+#globoplayImagens {
+    padding-left: 33px;
+}
+
+#imagemGloboplay2 {
+    border-radius: 10px;
+    height: 290px;
+    width: 100%;
+}
+
+/*Vai cozinhar hoje ?*/
+
+#cozinhar {
+    margin-top: 60px;
+}
+
+#jornalosmoTituloRoxo {
+    color: #a5147d;
+    font-size: 200%;
+    border-bottom: #a5147d solid 2px;
+    padding-bottom: 21px;
+}
+
+#imagemComida {
+    width: 100%;
+    height: 136px;
+    border-radius: 12px;
+}
+
+#corRoxo {
+    color: #a5147d;
+}
+
+#fonteSub {
+    font-size: 78%;
+}
+
+/* A gente explica / Curiosidades*/
+
+#jornalismoTituloAzul {
+    color: #0031ff;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#imagemExplica {
+    height: 131px;
+    width: 106%;
+}
+
+#jornalismoTituloVermelho {
+    color: #c4170c;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 21px;
+}
+
+#vermelho {
+    color: #c4170c;
+}
+
+/*Gshow*/
+
+#jornalosmoTituloLaranja {
+    color: #ff6700;
+    font-size: 200%;
+    border-bottom: 2px solid;
+    padding-bottom: 18px;
+}
+
+/* Top Globo*/
+
+#iconeTopGlobo {
+    width: 28px;
+    height: 29px;
+    margin-bottom: 21px;
+}
+
+#jornalismoTitulo6 {
+    color: #0031ff;
+    font-size: 200%;
+    border-bottom: 2px solid #0031ff ;
+    padding-bottom: 29px;   
+}
+
+/* Rodape*/
+
+#rodapeFonte {
+    font-size: 90%;
+}
+
+#azul {
+    background-color: #0031ff;
+}
+
+#Copyright {
+    font-size: 90%;
+}
+
+#icone03 {
+    width: 32px;
+    height: 32px;
+}
+
+#bordaDireita {
+    border-right: 1px solid #ebedef;
+}
+
+#margemAutoBaixo {
+    margin-bottom: 10%;
+}
+
+#imagemRodape{
+    margin: auto;
+  display: block;
+  height: 100px;
+  width: 100%;
+  border-radius: 8px;
+}
