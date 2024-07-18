@@ -1,0 +1,164 @@
+body{
+    background-color: rgb(185, 227, 255);
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+#titulo{
+    margin: auto;
+    display: block;
+}
+
+#foto{
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+/* os 16 numeros*/
+
+#numeroMaior{
+    margin-top: 80px;
+    display: grid;
+    place-items: center; 
+}
+
+#numeroCartao{
+    font-size: 200%;
+}
+
+#lugarNumero{
+    margin-top: 10px;
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 120%;
+}
+
+#lugarnumero::placeholder{
+    text-align: center;
+}
+
+/*Nome*/
+
+#nomeCartao{
+    margin-top: 80px;
+    display: grid;
+    place-items: center; 
+}
+
+#nomeTexto{
+    font-size: 200%;
+}
+
+#nomeInput{
+    margin-top: 10px;
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 120%;
+}
+
+#nomeInput::placeholder{
+    text-align: center;
+}
+
+/* numeros Atras*/
+
+#numeroMenor{
+    margin-top: 80px;
+    display: grid;
+    place-items: center; 
+}
+
+#numeroData{
+    font-size: 200%;
+}
+
+#lugarNumeroData{
+    margin-top: 10px;
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 120%;
+}
+
+#lugarNumeroData::placeholder{
+    text-align: center;
+}
+
+/* Data Valdiade*/
+
+#validade{
+    margin-top: 80px;
+    display: grid;
+    place-items: center; 
+}
+
+#validadeTexto{
+    font-size: 200%;
+}
+
+#validadeNumero{
+    margin-top: 10px;
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 120%;
+}
+
+#validadeNumero::placeholder{
+    text-align: center;
+}
+
+#botaoDiv{
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#botao{
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 200%;
+}
+
+#banner {
+    display: none; /* Oculto por padrão */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    padding: 5px 200px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    z-index: 1000;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#resultado{
+    margin-left: -187px;
+    border-radius: 10px;
+    width: 675px;
+    height: 700px;
+}
+
+#paragrafodasse{
+    margin-left: -190px;
+    font-size: 150%;
+}
