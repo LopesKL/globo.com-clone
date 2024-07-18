@@ -379,13 +379,13 @@ hr {
     font-size: 250%;
 }
 
-#fonteJogo {
+.fonteJogo {
     font-size: 76%;
     color: #84888f;
     position: left;
 }
 
-#fundoMoeda {
+.fundoMoeda {
     background-color: #f5f6f7;
     border-radius: 5px;
     padding: 4px;
@@ -408,16 +408,16 @@ hr {
     padding-bottom: 20px;
 }
 
-#verde {
+.verde {
     color: #06aa48;
 }
 
-#iconeJogo {
+.iconeJogo {
     width: 32px;
     height: 32px;
 }
 
-#horario {
+.horario {
     font-size: 80%;
 }
 
@@ -448,7 +448,7 @@ hr {
     border-radius: 100px;
 }
 
-#horoscopoIcone {
+.horoscopoIcone {
     border-color: rgb(255, 255, 255);
     border-radius: 50px;
 }
@@ -457,12 +457,12 @@ hr {
     --bs-btn-hover-bg: #ff934b;
 }
 
-#horoscopoIcon2 {
+.horoscopoIcon2 {
     width: 20px;
     height: 19px;
 }
 
-#laranja {
+.laranja {
     color: #ff7400;
 }
 
@@ -477,7 +477,7 @@ hr {
 
 /*De Olho no G1*/
 
-#jornalismoTitulo5 {
+.jornalismoTitulo5 {
     color: #000000;
     font-size: 200%;
     border-bottom: 2px solid;
@@ -494,7 +494,7 @@ hr {
     font-size: 110%;
 }
 
-#video{
+.video{
     margin-top: 12px;
     margin-bottom: 8px;
 }
@@ -531,7 +531,7 @@ hr {
     padding-left: 33px;
 }
 
-#imagemGloboplay2 {
+.imagemGloboplay2 {
     border-radius: 10px;
     height: 290px;
     width: 100%;
@@ -550,17 +550,17 @@ hr {
     padding-bottom: 21px;
 }
 
-#imagemComida {
+.imagemComida {
     width: 100%;
     height: 136px;
     border-radius: 12px;
 }
 
-#corRoxo {
+.corRoxo {
     color: #a5147d;
 }
 
-#fonteSub {
+.fonteSub {
     font-size: 78%;
 }
 
@@ -573,7 +573,7 @@ hr {
     padding-bottom: 21px;
 }
 
-#imagemExplica {
+.imagemExplica {
     height: 131px;
     width: 106%;
 }
@@ -585,7 +585,7 @@ hr {
     padding-bottom: 21px;
 }
 
-#vermelho {
+.vermelho {
     color: #c4170c;
 }
 
@@ -615,7 +615,7 @@ hr {
 
 /* Rodape*/
 
-#rodapeFonte {
+.rodapeFonte {
     font-size: 90%;
 }
 
@@ -623,7 +623,7 @@ hr {
     background-color: #0031ff;
 }
 
-#Copyright {
+.Copyright {
     font-size: 90%;
 }
 
