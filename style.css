@@ -15,11 +15,10 @@ hr {
     padding-bottom: 0px;
 }
 
-#barraNav {
+.barraNav {
     border-bottom: 2px solid #f5f6f7;
     margin-top: 4px;
     margin-bottom: 4px;
-
 }
 
 #margin {
@@ -34,7 +33,7 @@ hr {
     padding-right: 6px;
 }
 
-#tamanhoFonteMenu {
+.tamanhoFonteMenu {
     font-size: 85%;
 }
 
@@ -55,7 +54,7 @@ hr {
     margin-right: 34px;
 }
 
-#icone01 {
+.icone01 {
     margin-right: -10px;
     margin-left: 5px;
     width: 20px;
@@ -69,7 +68,7 @@ hr {
     margin-right: -10px;
 }
 
-#iconeLateral {
+.iconeLateral {
     width: 32px;
     height: 32px;
 }
@@ -79,7 +78,7 @@ hr {
     height: 20px;
 }
 
-#corzinhaGlobo {
+.corzinhaGlobo {
     color: #9da3ae;
     font-size: 75%;
 }
@@ -129,7 +128,7 @@ hr {
     color: #a5147d;
 }
 
-#margemAutoBaixo {
+.margemAutoBaixo {
     margin-bottom: 10%;
 }
 
@@ -150,11 +149,11 @@ hr {
     padding-left: 8px;
 }
 
-#textinho {
+.textinho {
     font-size: 108%;
 }
 
-#imagem2 {
+.imagem2 {
     margin: auto;
     display: block;
     height: 110px;
@@ -162,16 +161,16 @@ hr {
     border-radius: 14px;
 }
 
-#esporteTitulo {
+.esporteTitulo {
     color: #06aa48;
     font-size: 120%;
 }
 
-#tamanhoFonte95 {
+.tamanhoFonte95 {
     font-size: 95%;
 }
 
-#jornalismoTitulo {
+.jornalismoTitulo {
     color: #c4170c;
     font-size: 110%;
 }
@@ -185,7 +184,7 @@ hr {
     padding-right: 23px;
 }
 
-#imagem {
+.imagem {
     margin: auto;
     display: block;
     height: 128px;
@@ -193,7 +192,7 @@ hr {
     border-radius: 8px;
 }
 
-#margemAuto {
+.margemAuto {
     margin-bottom: 17%;
 }
 
@@ -204,7 +203,7 @@ hr {
     margin-right: 0px;
 }
 
-#enterterimentoTitulo {
+.enterterimentoTitulo {
     color: #ff6700;
     font-size: 110%;
 }
@@ -226,19 +225,19 @@ hr {
     margin-top: 12px;
 }
 
-#relatosBorda {
+.relatosBorda {
     border-radius: 5px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
-#imagemRelatos {
+.imagemRelatos {
     width: 100%;
     height: 162px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
-#textoRoxo {
+.textoRoxo {
     color: #9133bb;
 }
 
@@ -255,7 +254,7 @@ hr {
     padding-bottom: 21px;
 }
 
-#tamanhoNoticia {
+.tamanhoNoticia {
     height: 348px;
 }
 
@@ -266,43 +265,43 @@ hr {
     height: 348px;
 }
 
-#imagem3 {
+.imagem3 {
     width: 100%;
     height: 200px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
-#textinhoColuna {
+.textinhoColuna {
     font-size: 70%;
     color: white;
 }
 
-#altura {
+.altura {
     height: 110px;
 }
 
-#imagemJornalismoPequeno {
+.imagemJornalismoPequeno {
     height: 110px;
     width: 156px;
     border-radius: 10px;
 }
 
-#textoNoticia {
+.textoNoticia {
     margin-left: -10px;
 }
 
-#jornalismoTitulo3 {
+.jornalismoTitulo3 {
     color: #c4170c;
     font-size: 94%;
 }
 
-#textinhoColuna2 {
+.textinhoColuna2 {
     font-size: 75%;
     color: #929292;
 }
 
-#imagem4 {
+.imagem4 {
     width: 100%;
     height: 200px;
     border-radius: 20px;
@@ -326,7 +325,7 @@ hr {
     font-size: 110%;
     height: 348px;
 }
-#esporteTitulo3 {
+.esporteTitulo3 {
     color: #06aa48;
     font-size: 94%;
 }
@@ -349,7 +348,7 @@ hr {
     height: 348px;
 }
 
-#enterterimentoTitulo3 {
+.enterterimentoTitulo3 {
     color: #ff6700;
     font-size: 94%;
 }
@@ -363,7 +362,7 @@ hr {
     padding-bottom:20px;
 }
 
-#cardi {
+.cardi {
     border-radius: 17px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     border: 0px;
@@ -371,7 +370,7 @@ hr {
     height: 75%;
 }
 
-#textinhoEconomia {
+.textinhoEconomia {
     font-size: 80%;
 }
 
@@ -633,7 +632,7 @@ hr {
     height: 32px;
 }
 
-#bordaDireita {
+.bordaDireita {
     border-right: 1px solid #ebedef;
 }
 
