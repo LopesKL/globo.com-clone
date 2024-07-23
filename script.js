@@ -37,7 +37,7 @@ fetch('jsons/colunaEsquerdaJornalismo.json')
             }
         }
     })
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
+
 /*Coluna meio - Esportes */
 
 fetch('jsons/colunaMeioEsporte.json')
@@ -62,7 +62,6 @@ fetch('jsons/colunaMeioEsporte.json')
             }
         });
     })
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
 
 
 /* Coluna direita - Gshow*/
@@ -91,7 +90,7 @@ fetch('jsons/colunaDireitaGshow.json')
             }
         }
     })
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
+
 
 /* Histórias impressionantes*/
 
@@ -118,7 +117,6 @@ fetch('jsons/historias.json')
             }
         }
     })
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
 
 
 /*Jornalismo - Esporte - Entreterimanto*/
@@ -143,7 +141,6 @@ fetch('jsons/jornalismo.json')
         };
     })
 
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
 
 /*Esporte*/
 
@@ -165,7 +162,6 @@ fetch('jsons/esporte.json')
         };
     })
 
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
 
     /* Entreterimento */
 
@@ -186,8 +182,6 @@ fetch('jsons/entreterimento.json')
             };
         };
     })
-
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
     
 
 /*Economia - Agenda - Horoscopo*/
@@ -239,7 +233,6 @@ fetch('jsons/entreterimento.json')
     });
 
 
-
 /* Vai cozinhar Hoje ?*/
 
 fetch('jsons/vaiCozinharHoje.json')
@@ -260,8 +253,6 @@ fetch('jsons/vaiCozinharHoje.json')
             };
         };
     })
-
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
 
 
 /*A Gente Explica*/
@@ -285,8 +276,6 @@ fetch('jsons/aGenteExplica.json')
     };
 })
 
-.catch(error => console.error('Erro ao carregar o JSON:', error));
-
 
 /* Curiosidades */
 
@@ -308,8 +297,6 @@ fetch('jsons/curiosidades.json')
         };
     };
 })
-
-.catch(error => console.error('Erro ao carregar o JSON:', error));
 
 
 /* GShow */
@@ -333,8 +320,6 @@ fetch('jsons/gshow.json')
         };
     })
 
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
-
 
 /* Tegnologia & Games */
 
@@ -356,8 +341,6 @@ fetch('jsons/tecnologiaEGames.json')
             };
         };
     })
-
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
 
 
 /* Top globo */
@@ -381,8 +364,6 @@ fetch('jsons/tecnologiaEGames.json')
         };
     })
 
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
-
 
     /* Esporte */
 
@@ -403,8 +384,6 @@ fetch('jsons/tecnologiaEGames.json')
         };
     })
 
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
-
 
     /* Entreterimento */
 
@@ -424,5 +403,3 @@ fetch('jsons/tecnologiaEGames.json')
 
         };
     })
-
-    .catch(error => console.error('Erro ao carregar o JSON:', error));
