@@ -1,0 +1,34 @@
+[
+    {
+        "receita01": true,
+        "imagemLink": "https://s2-home-globo.glbimg.com/C1AJ3pHtNuPIqTjy7a-dO3k9JtY=/96x92:1783x1042/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/A/6/FmqyelT4K6lb1GyWvZ7g/bolo-de-banana-com-canela.jpg",
+        "link":"https://receitas.globo.com/tipos-de-prato/bolos/bolo-de-banana-com-canela-52ea94c34d38854b63000053.ghtml",
+        "span":"Não tem erro",
+        "h6":"40 minutos e 8 ingredientes: aprenda a fazer bolo de banana com canela",
+        "li":"Bolos"
+    },
+    {
+        "receita02": true,
+        "imagemLink": "https://s2-home-globo.glbimg.com/RgaPZetetXm503sCPjMDL-BxVco=/106x123:873x554/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/o/U/SuEB0LQpCap7ZmfYAURA/nhoque-com-ragu-linguica-receita.jpg",
+        "link":"https://receitas.globo.com/receitas-da-tv/e-de-casa/nhoque-com-ragu-de-linguica.ghtml",
+        "span":"Receita de Chef",
+        "h6":"Nhoque com molho de ragu de linguiça é boa opção para jantar ou almoço",
+        "li":"é de casa"
+    },
+    {
+        "receita03": true,
+        "imagemLink": "https://s2-home-globo.glbimg.com/rZYJBOFs4C3svwEBg5GuIDNWDDk=/205x14:1198x574/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/e/H/qRSD7QQAamuhfcgKcsWQ/pao-de-queijo-recheado.jpeg",
+        "link":"https://receitas.globo.com/receitas-da-tv/mais-voce/pao-de-queijo-recheado.ghtml",
+        "span":"Fácil e gostoso",
+        "h6":"Pão de queijo recheado de frango com requeijão cai bem no lanche ",
+        "li":"Mais Voce"
+    },
+    {
+        "receita04": true,
+        "imagemLink": "https://s2-home-globo.glbimg.com/0_kx7NC_Jq8bBZgD1chl3lRC5q8=/0x0:985x554/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/y/4/4D76NiRHAzvtCJvtTy7A/coxadog-receita-como-fazer.jpg",
+        "link":"https://receitas.globo.com/receitas-da-tv/mais-voce/coxadog-cachorro-quente-com-massa-de-coxinha.ghtml",
+        "span":"Sucesso na ZN de São Paulo",
+        "h6":"Coxadog: veja como fazer um cachorro-quente com massa de coxinha",
+        "li":"Mais Voce - Receitas"
+    }
+]

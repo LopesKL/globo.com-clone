@@ -1,0 +1,39 @@
+[
+    {
+        "primeiraGeNoticiaGe": true,
+        "link": "https://ge.globo.com/futebol/times/corinthians/noticia/2024/07/22/analise-corinthians-mostra-repertorio-deixa-o-z-4-e-da-sinais-de-recuperacao-com-ramon-diaz.ghtml",
+        "noticia": "Corinthians dá sinais de recuperação com Ramón",
+        "li": false,
+        "descricao":"",
+        "imagem": true,
+        "imagemLink":"https://s2-home-globo.glbimg.com/SVdneXRGwNN806ot05ol4d75Dts=/0x0:3000x1688/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/5/D/7yI9zOTYO92CoJQ2kq8A/1721596650aaebdb8bb6b0e73f6c3c54a0ab0c6415.jpg"
+    },
+    {
+        "segundaGeNoticiaGe": true,
+        "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2024/07/21/chama-o-var-video-mostra-outro-torcedor-do-flamengo-jogando-a-bola-para-campo-errei-o-gandula.ghtml",
+        "noticia": "Vídeo mostra outro torcedor do Fla jogando bola para o campo",
+        "li": true,
+        "descricao":"Flamengo já decidiu jogo com duas bolas no campo em 2019 ",
+        "imagem": false,
+        "imagemLink":""
+    },  
+    {
+        "terceiraGeNoticiaGe": true,
+        "link": "https://ge.globo.com/pe/futebol/noticia/2024/07/22/viralizou-reestreias-de-coutinho-e-thiago-silva-penalti-sinuca-pro-fla-e-lancamento-pro-bandeira.ghtml",
+        "noticia": "Viralizou: reestreias, 'pênalti sinuca' pro Fla e lançamento pro bandeira",
+        "li": false,
+        "descricao":"",
+        "imagem": true,
+        "imagemLink":"https://s2-home-globo.glbimg.com/myrvr691FVMZKy4vi3DAP7c4b88=/48x15:521x281/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/s01.video.glbimg.com/deo/vi/59/49/12774959"
+    },
+    {
+        "quartaNoticiaGe": true,
+        "link": "https://ge.globo.com/motor/formula-1/noticia/2024/07/22/max-verstappen-tem-maior-jejum-de-vitorias-na-f1-desde-2021.ghtml",
+        "noticia": "Max Verstappen tem maior jejum de vitórias na F1 desde 2021",
+        "li": true,
+        "descricao":"Análise: Atlético-MG dá passo importante em retomada",
+        "imagem": false,
+        "imagemLink":""
+    }
+    
+]

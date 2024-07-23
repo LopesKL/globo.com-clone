@@ -1,0 +1,66 @@
+
+
+[
+    {
+        "noticiaPrincipal": true,
+        "manchete": "Eleições nos EUA: saiba como será a escolha do candidato democrata",
+        "link": "https://g1.globo.com/mundo/eleicoes-nos-eua/2024/noticia/2024/07/22/biden-pode-transferir-indicacao-kamala-tera-adversario-saiba-como-sera-escolha-de-candidato-democrata-nos-eua.ghtml"
+    },
+    {
+        "li01": true,
+        "noticia": "Democratas têm maior dia de doações em 4 anos: mais de R$ 250 mi" ,
+        "link": "https://g1.globo.com/mundo/eleicoes-nos-eua/2024/noticia/2024/07/22/apos-desistencia-de-biden-democratas-tem-maior-dia-de-doacoes-em-quatro-anos-mais-de-r-250-milhoes.ghtml"
+    },
+    {
+        "li02": true,
+        "noticia": "Assessores informados um minuto antes: os bastidores da decisão" ,
+        "link": "https://g1.globo.com/mundo/eleicoes-nos-eua/2024/noticia/2024/07/22/os-bastidores-da-decisao-de-biden-de-desistir-da-candidatura.ghtml"
+    },
+    {
+        "li03": true,
+        "noticia": "Modo escolhido por Biden para sair de cena reflete trajetória" ,
+        "link": "https://oglobo.globo.com/mundo/eleicoes-eua/noticia/2024/07/22/perfil-momento-e-modo-escolhidos-por-biden-para-sair-de-cena-refletem-trajetoria-politica-marcada-por-resiliencia.ghtml"
+    },
+    {
+        "noticia01Ge": true,
+        "link":"https://g1.globo.com/mundo/eleicoes-nos-eua/2024/noticia/2024/07/22/lista-de-principais-cotados-para-disputar-indicacao-democrata-com-kamala-cai-para-tres-nomes-veja-quem-sao.ghtml",
+        "linkImagem": "https://s2-home-globo.glbimg.com/f-yHnDhrFGGlHAasvTeSZatK0rI=/328x0:1547x687/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/s01.video.glbimg.com/deo/vi/55/48/12774855",
+        "noticia": "Lista de cotados para disputa com Kamala cai para 3 ",
+        "subtitulo": "Kamala recebe apoio dos Clinton; Obama se cala "
+    },
+    {
+        "noticia02Ge": true,
+        "link":"https://g1.globo.com/mundo/eleicoes-nos-eua/2024/noticia/2024/07/22/redes-de-joe-biden-e-kamala-harris-atualizam-logotipo-da-campanha-presidencial.ghtml",
+        "linkImagem":"https://s2-home-globo.glbimg.com/PWJDxU5oQSEaQYrdzyt9QreNzXQ=/0x47:611x391/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/J/lY72uKTtSP05cWcZC88A/captura-de-tela-2024-07-22-063139.jpg",
+        "noticia": "Redes de Biden e Kamala Harris atualizam logotipo ",
+        "subtitulo": "Bem-vindo ao Vasco e mais: memes se espalham "
+    },
+    {
+        "noticia03Ge": true,
+        "link":"https://g1.globo.com/sp/sao-paulo/noticia/2024/07/22/balao-cai-atinge-rede-eletrica-e-deixa-parte-da-zona-leste-de-sp-sem-energia.ghtml",
+        "linkImagem":"https://s2-home-globo.glbimg.com/A4DnDhJT1xHFunwIk0zaaotNq0I=/0x18:483x415/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/q/7cmYy8RWGB6WEIQESHBw/balao-carro-moto-foto.jpg",
+        "noticia": "SP: balão cai sobre creche, arrasta carro e iça moto até fios",
+        "subtitulo": "Motoristas se jogam no chão em tiroteio no Rio"
+    },
+    {
+        "noticia04Ge": true,
+        "link":"https://oglobo.globo.com/brasil/noticia/2024/07/22/semana-comeca-com-previsao-de-chuva-para-oito-capitais-segundo-o-inmet-saiba-quais.ghtml",
+        "linkImagem":"https://s2-home-globo.glbimg.com/1YLP22Kk_KrNInMAsToDRBI7Vac=/0x317:905x826/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/7/R/Tb51zARRytRWNOPyZKbQ/tempo.png",
+        "noticia": "Semana começa com previsão de chuva para 8 capitais",
+        "subtitulo": "Fotógrafo clica lua cheia 'gigante' no Arpoador"
+    },
+    {
+        "noticia05": true,
+        "link":"https://oglobo.globo.com/economia/noticia/2024/07/22/colombiana-compra-air-fryer-online-e-recebe-animal-na-caixa-veio-com-um-companheiro.ghtml",
+        "linkImagem":"https://s2-home-globo.glbimg.com/PRweScA1mcqWupgt2qx4AFduG-o=/0x0:2000x1125/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/c/A/tfyWU2QraMrrmCBbQf4A/arte-24-.png",
+        "noticia": "Colombiana compra air fryer, mas recebe animal na caixa",
+        "subtitulo": "Os efeitos da reposição hormonal na andropausa"
+    },
+    {
+        "noticia06": true,
+        "link":"https://g1.globo.com/go/goias/noticia/2024/07/22/filha-adolescente-de-vereador-morre-apos-bater-carro-do-pai-contra-arvore.ghtml",
+        "linkImagem":"https://s2-home-globo.glbimg.com/epVWUUtIbxgXcbW2g-JZNdGA8m4=/0x0:1700x956/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Q/B/e60AvNSymiS2locBVHcQ/imagens-2024-07-22t075053.903.png",
+        "noticia": "Filha adolescente de vereador morre após bater carro do pai contra árvore ",
+        "subtitulo": "Mariane Branquinho tinha 17 anos "
+    }
+]

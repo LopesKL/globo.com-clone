@@ -1,0 +1,71 @@
+[
+    {
+        "jornalismo01": true,
+        "titulo":"Cratera maior que o Maracanã aberta debaixo d'água é alvo de ação em SP",
+        "imagemLink":"https://s2-home-globo.glbimg.com/c2hlPNl1CUPUkS1QRDiaoY_2fZg=/0x0:1278x719/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/0/e/pgXorjSsuC6nhnNMb6Wg/d5f4c5e5-f4af-46ac-b9bd-d075d3c2f21b.jpg",
+        "subtitulo":"Porto Mar -' G1",
+        "link":"https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2024/07/22/cratera-maior-que-o-maracana-aberta-debaixo-dagua-e-alvo-de-acao-o-impacto-e-real.ghtml"
+    },
+    {
+        "jornalismo02": true,
+        "titulo":"Filha adolescente de vereador morre após bater carro do pai contra árvore ",
+        "imagemLink":"https://s2-home-globo.glbimg.com/epVWUUtIbxgXcbW2g-JZNdGA8m4=/0x0:1700x956/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Q/B/e60AvNSymiS2locBVHcQ/imagens-2024-07-22t075053.903.png",
+        "subtitulo":"Goias - g1",
+        "link":"https://g1.globo.com/go/goias/noticia/2024/07/22/filha-adolescente-de-vereador-morre-apos-bater-carro-do-pai-contra-arvore.ghtml"
+    },
+    {
+        "jornalismo03": true,
+        "titulo":"Otaviano Costa revela cirurgia cardíaca após aneurisma: 'Colocando minha vida em risco'",
+        "imagemLink":"https://s2-home-globo.glbimg.com/WAT-BQeOP3k0mpXxiKOsgcbT-iU=/0x0:1920x1080/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2024/O/e/lGe6SrSqCNo9B8GzFNVg/otaviano-costa.jpg",
+        "subtitulo":"Atualidades - Vogue",
+        "link":"https://vogue.globo.com/atualidades/noticia/2024/07/otaviano-costa-revela-que-passou-por-cirurgia.ghtml"
+    },
+    {
+        "jornalismo04": true,
+        "titulo":"BNDES divulga edital de concurso com 150 vagas e salários de R$ 20,9 mil; veja como participar ",
+        "subtitulo":"Concursos - G1",
+        "imagem":false,
+        "link":""
+    },
+    {
+        "jornalismo05": true,
+        "titulo":"Slash, lenda do Guns N' Roses, choca ao anunciar morte da enteada aos 25 anos e cancela 4 shows",
+        "imagemLink":"https://s2-home-globo.glbimg.com/wZJm4XcEvVFuL3CFNOlQuBBp4uU=/28x0:1335x735/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2024/c/E/CDevbBRYSBW2eqW9TL2g/monet-fotos-69-.png",
+        "subtitulo":"Noticias - Monet",
+        "link":"https://revistamonet.globo.com/noticias/noticia/2024/07/slash-lenda-do-guns-n-roses-choca-ao-anunciar-morte-da-enteada-aos-25-anos-e-cancela-quatro-shows.ghtml"
+    },
+    {
+        "jornalismo06": true,
+        "titulo":"‘Jogou a pistola na minha cara': ouça relato da jovem de 15 anos morta por homem de 56 ",
+        "imagemLink":"https://s2-home-globo.glbimg.com/GzBj8NypnzD0s7bqWH2T2Eyiu0o=/0x0:1280x720/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/s01.video.glbimg.com/deo/vi/80/51/12775180",
+        "subtitulo":"Fantastico - G1",
+        "link":"https://g1.globo.com/fantastico/noticia/2024/07/22/ja-jogou-a-pistola-na-minha-cara-so-que-nunca-tive-coragem-de-denunciar-ouca-relato-da-jovem-de-15-anos-morta-por-empresario-de-56.ghtml"
+    },
+    {
+        "jornalismo07": true,
+        "titulo":"Vídeo mostra ex-panicat presa por dirigir embriagada chutando policial militar em Campinas",
+        "imagemLink":"https://s2-home-globo.glbimg.com/dOU2oxTsHemLjQveVOSIHycKR5w=/0x0:506x285/fit-in/515x290/middle/smart/filters:strip_icc():strip_exif()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/i/KW3HlBSKG6PfFd4D5pqw/prende-influencer-g1.jpg",
+        "subtitulo":"Campinas e região - G1",
+        "link":"https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/22/video-mostra-ex-panicat-presa-por-dirigir-embriagada-chutando-policial-militar-em-campinas.ghtml"
+    },
+    {
+        "jornalismo08": true,
+        "titulo":"Vírus cerebral incurável mata adolescente de 14 anos na Índia um dia após diagnóstico",
+        "subtitulo":"recomendado para você",
+        "link":"https://oglobo.globo.com/saude/noticia/2024/07/22/virus-cerebral-incuravel-nipah-mata-adolescente-de-14-anos-na-india.ghtml"
+    },
+    {
+        "jornalismo09": true,
+        "titulo":"Árbitro desmaia após agressão em partida de futebol, é socorrido e carro capota a caminho do hospital",
+        "imagemLink":"https://s2-g1.glbimg.com/e9FaXwfsvtJQR0GyqBRlqu42J60=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/84/57/12775784",
+        "subtitulo":"recomendado para você",
+        "link":"https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/07/22/arbitro-assistente-desmaia-apos-ser-agredido-em-partida-de-futebol-amador-no-rs-video.ghtml"
+    },
+    {
+        "jornalismo10": true,
+        "titulo":"Vídeo mostra mulher sendo assassinada a tiros pelo ex na frente de bar em Aracruz, ES",
+        "imagemLink":"https://s2-g1.glbimg.com/gC0hzOoEJc0uCuIXl-4IhtTJIsQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/62/58/12775862",
+        "subtitulo":"recomendado para você",
+        "link":"https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2024/07/22/video-mostra-mulher-sendo-assassinada-a-tiros-pelo-ex-na-frente-de-bar-em-aracruz-es.ghtml"
+    }
+]

@@ -145,7 +145,7 @@ hr {
 }
 
 #colunaEsquerda {
-    padding-right: 19px;
+    padding-right: 22px;
     padding-left: 8px;
 }
 
@@ -156,8 +156,8 @@ hr {
 .imagem2 {
     margin: auto;
     display: block;
-    height: 110px;
-    width: 192px;
+    height: 108px;
+    width: 100%;
     border-radius: 14px;
 }
 
@@ -175,17 +175,21 @@ hr {
     font-size: 110%;
 }
 
+.ulInicio{
+    padding-left: 22px;
+}
+
 #colunaMeio {
     border-left: 1px solid #ebedef;
     border-right: 1px solid #ebedef;
     margin-left: 15px;
     border-left-width: 1px;
     padding-left: 24px;
-    padding-right: 23px;
+    padding-right: 24px;
 }
 
 .imagem {
-    margin: auto;
+    margin: 0px;
     display: block;
     height: 128px;
     width: 100%;
@@ -198,12 +202,12 @@ hr {
 
 #colunaDireita {
     margin-left: -15px;
-    padding-left: 41px;
+    padding-left: 52px;
     padding-right: 9px;
     margin-right: 0px;
 }
 
-.enterterimentoTitulo {
+.entreterimentoTitulo {
     color: #ff6700;
     font-size: 110%;
 }
@@ -241,7 +245,7 @@ hr {
     color: #9133bb;
 }
 
-/* Jornalismo - Esporte - Enterterimento*/
+/* Jornalismo - Esporte - Entreterimento*/
 
 #colunaJornalismo {
     padding-right: 19px;
@@ -330,25 +334,25 @@ hr {
     font-size: 94%;
 }
 
-#colunaEnterterimento {
+#colunaEntreterimento {
     padding-left: 19px;
 }
 
-#enterterimentoTitulo2 {
+#entreterimentoTitulo2 {
     color: #ff6700;
     font-size: 200%;
     border-bottom: 2px solid;
     padding-bottom: 21px;
 }
 
-#backgroundEnterterimento {
+#backgroundEntreterimento {
     background-color: #ff6700;
     border-radius: 20px;
     font-size: 110%;
     height: 348px;
 }
 
-.enterterimentoTitulo3 {
+.entreterimentoTitulo3 {
     color: #ff6700;
     font-size: 94%;
 }
@@ -430,7 +434,7 @@ hr {
     border-bottom-style: solid;
 }
 
-#enterterimentoTitulo4 {
+#entreterimentoTitulo4 {
     color: #ff6700;
     font-size: 150%;
     border-bottom: 2px solid;
@@ -577,6 +581,7 @@ hr {
 .imagemExplica {
     height: 131px;
     width: 106%;
+
 }
 
 #jornalismoTituloVermelho {
@@ -648,3 +653,5 @@ hr {
   width: 100%;
   border-radius: 8px;
 }
+
+

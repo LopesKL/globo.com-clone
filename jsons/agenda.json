@@ -1,0 +1,26 @@
+[
+    {
+        "agenda": true,
+        
+        "nomeTime01": "ITU",
+        "bandeiraTime01":"https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg",
+        "nomeTime02": "AME",
+        "bandeiraTime02": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg",
+        "horarioJogo01": "21:00",
+        "campeonato01": "Campeonato Brasileiro Serie B",
+
+        "nomeTime03": "PON",
+        "bandeiraTime03":"https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg",
+        "nomeTime04": "VNO",
+        "bandeiraTime04": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg",
+        "horarioJogo02": "21:30",
+        "campeonato02": "Campeonato Brasileiro Serie B",
+
+        "nomeTime05": "INT",
+        "bandeiraTime05":"https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg",
+        "nomeTime06": "RCE",
+        "bandeiraTime06": "https://s.sde.globo.com/media/organizations/2024/03/26/ROSARIO_CENTRAL.svg",
+        "horarioJogo03": "21:30",
+        "campeonato03": "Copa Sul Americana"
+    }
+]
